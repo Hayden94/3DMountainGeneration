@@ -2,7 +2,7 @@
 
 ![alt front](http://i.imgur.com/e3c0u4G.jpg)
 
-This Processing project runs a 3D Mountain generation written in Java. The code is made to appear as if the mountains are coming towards you. The effect is for it to seem as you are flying over mountains.
+This Processing project runs a 3D Mountain generation written in Java. The code is made to appear as if the mountains are coming towards you. The effect is for it to seem as you are flying over mountains. 3DMountainGeneration.pde was written with Java and the included Processing libraries within the Processing SDK.
 
 ## Prerequisites
 ```
@@ -13,7 +13,7 @@ The download for Processing SDK can be found [here](https://processing.org/downl
 
 ## Deployment
 
-*  Open Terrain_generation.pde into Processing
+*  Open 3DMountainGeneration.pde into Processing
 
 * Run the sketch by clicking Sketch => Run, or press Ctrl + R
 
